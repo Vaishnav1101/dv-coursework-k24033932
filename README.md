@@ -1,70 +1,71 @@
 
 # Premier League Data Visualization (2012–2022)
 
-This project is part of the 7CCSMSDV – Simulation and Data Visualization module at King’s College London (Summer 2025 session).
+This repository contains the interactive visualization and source code for **Part 3: Implementation** of the 7CCSMSDV – Simulation and Data Visualization coursework at King’s College London.
 
 ## 📊 Project Overview
 
-This interactive visualization explores how **transfer spending** correlates with **team success** in the Premier League between 2012 and 2022. Built using **D3.js**, the chart highlights achievements such as:
+This D3.js-based visualization explores the relationship between **transfer spending** and **team success** in the Premier League from 2012 to 2022. The visualization highlights:
 
-- Winning the Premier League, FA Cup, or EFL Cup
-- Qualifying for European competitions (UCL, UEL, UECL)
-- Relegation status
-
-## 🎥 Demo Video
-
-[![Watch the demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue)](https://your-demo-link.com)
-
-*(Replace the above with the actual YouTube or hosting link to your demo)*
+- Premier League, FA Cup, and EFL Cup wins
+- European competition qualifications (UCL, UEL, UECL)
+- Relegation outcomes
 
 ## 🛠 Features
 
 - Interactive **season slider**
-- **Highlight dropdown** for team achievements
-- Hover **tooltips** with spend values
-- Force-directed **bubble layout** with color-coded outcomes
-- Responsive and accessible layout
+- **Dropdown menu** to highlight team achievements
+- **Tooltips** with club name and spending details
+- Force-directed **bubble layout**
+- Responsive design for different screen sizes
 
 ## 📁 Files
 
-| File               | Description                                 |
-|--------------------|---------------------------------------------|
-| `index.html`       | Main HTML file linking the visualization    |
-| `script.js`        | D3.js code for the bubble chart             |
-| `style.css`        | Basic styling for layout and tooltip        |
-| `data.csv`         | Final dataset (club, season, spend, outcomes) |
-| `cleaned_references.bib` | BibTeX reference file used in report    |
-| `report.pdf`       | Final submission report                     |
-| `demo.mp4` *(optional)* | 2-minute demo of the visualization      |
+| File          | Description                                 |
+|---------------|---------------------------------------------|
+| `index.html`  | Main HTML container for the visualization   |
+| `script.js`   | D3.js code implementing the interactive chart|
+| `style.css`   | Styles for layout and tooltips              |
+| `data.csv`    | Dataset containing season, spend, and outcomes |
+| `demo.mp4` *(optional)* | 2-minute demo video of the visualization |
 
-## 🧑‍💻 Local Setup Instructions (Using VS Code Live Server)
 
-> This project uses D3.js and must be run via a local server, such as **VS Code Live Server**, due to browser restrictions on loading local files.
+## 🧑‍💻 How to Run the Visualization Locally
 
-### 🔧 To run locally:
-1. Open the folder in **Visual Studio Code**.
-2. Install the **Live Server extension**.
-3. Right-click `index.html` → **“Open with Live Server”**.
-4. The visualization will open at `http://127.0.0.1:5500`.
+> This D3.js-based visualization loads data from a CSV file, which means it must be served via a local web server. Opening `index.html` directly will not work due to browser security restrictions.
 
-> ⚠️ Do not open `index.html` directly in the browser — the chart will not load due to blocked file access.
+### 🔧 What I Used
+For development, I hosted the visualization using a local server at:
 
-## 📄 Research Questions
+```
+http://localhost:8000
+```
 
-This project investigates:
+### ▶️ To Run It Yourself
 
-1. How Premier League team performances evolved over the past decade.
-2. How transfer spending correlates with success across all clubs.
-3. Whether in-game dominance metrics (possession, shots) predict outcomes.
+You can use either a simple Python server or VS Code's Live Server extension.
 
-## 🔗 Report Reference
+#### ✅ Option A: Python HTTP Server (no installation needed if Python 3 is installed)
+```bash
+cd path/to/project-folder
+python -m http.server 8000
+```
+Then open your browser and navigate to:  
+**http://localhost:8000**
 
-> Vaishnav Desai, 7CCSMSDV Coursework (2025).  
-> King's College London.  
-> [Student ID: K24033932]  
-> *See `report.pdf` for full methodology and analysis.*
+#### ✅ Option B: VS Code with Live Server Extension
+1. Open the project folder in **Visual Studio Code**.
+2. Install the **Live Server** extension (from the Extensions panel).
+3. Right-click `index.html` and select **"Open with Live Server"**.
+4. The chart will open in your browser at a local address like `http://127.0.0.1:5500`.
+
+> ⚠️ Opening the file directly (e.g., double-clicking `index.html`) will not load the chart because of blocked file access.
+
+## 🎥 Demo Video
+
+Included in the Repo
 
 ## 📚 Acknowledgements
 
-- Data from [Transfermarkt](https://transfermarkt.com) and [Premier League](https://premierleague.com)
-- Visualization inspired by perceptual principles from Ware (2004) and Munzner (2014)
+- Data from [Premier League](https://www.premierleague.com) and [Transfermarkt](https://www.transfermarkt.com)
+- Built using [D3.js](https://d3js.org)
