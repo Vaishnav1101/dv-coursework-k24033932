@@ -1,0 +1,221 @@
+season,club,spend_gbp,premier_league_top4,fa_cup,efl_cup,premier_league_winner,relegation,uefa_tier
+2012,Manchester City,55.0,1,0,0,1,0,Champions League
+2012,Manchester Utd,60.0,1,0,0,0,0,Champions League
+2012,Arsenal,40.5,1,0,0,0,0,Champions League
+2012,Tottenham,53.5,1,0,0,0,0,Champions League
+2012,Newcastle Utd,25.0,0,0,0,0,0,Europa League
+2012,Chelsea,80.0,0,1,0,0,0,Europa League
+2012,Everton,18.0,0,0,0,0,0,Europa League
+2012,Liverpool,50.0,0,0,1,0,0,Europa League
+2012,Fulham,12.0,0,0,0,0,0,
+2012,West Brom,8.5,0,0,0,0,0,
+2012,Swansea City,5.0,0,0,0,0,0,
+2012,Norwich City,10.0,0,0,0,0,0,
+2012,Sunderland,27.0,0,0,0,0,0,
+2012,Stoke City,14.0,0,0,0,0,0,
+2012,Wigan Athletic,6.0,0,0,0,0,0,
+2012,Aston Villa,13.0,0,0,0,0,0,
+2012,QPR,33.0,0,0,0,0,0,
+2012,Bolton,2.5,0,0,0,0,1,
+2012,Blackburn,3.8,0,0,0,0,1,
+2012,Wolves,4.5,0,0,0,0,1,
+2013,Manchester Utd,27.5,1,0,0,1,0,Champions League
+2013,Manchester City,87.0,1,0,1,0,0,Champions League
+2013,Chelsea,97.0,1,0,0,0,0,Champions League
+2013,Arsenal,42.5,1,1,0,0,0,Champions League
+2013,Tottenham,15.0,0,0,0,0,0,Europa League
+2013,Everton,20.0,0,0,0,0,0,Europa League
+2013,Liverpool,47.0,0,0,0,0,0,Europa League
+2013,West Brom,10.0,0,0,0,0,0,
+2013,Swansea City,21.0,0,0,0,0,0,
+2013,West Ham,12.5,0,0,0,0,0,
+2013,Norwich City,26.0,0,0,0,0,0,
+2013,Fulham,30.0,0,0,0,0,0,
+2013,Stoke City,20.0,0,0,0,0,0,
+2013,Southampton,35.0,0,0,0,0,0,
+2013,Aston Villa,12.0,0,0,0,0,0,
+2013,Newcastle Utd,18.0,0,0,0,0,0,
+2013,Sunderland,23.0,0,0,0,0,0,
+2013,Wigan Athletic,5.5,0,0,0,0,1,
+2013,Reading,7.0,0,0,0,0,1,
+2013,QPR,8.0,0,0,0,0,1,
+2014,Manchester City,75.0,1,0,0,1,0,Champions League
+2014,Liverpool,117.0,1,0,0,0,0,Champions League
+2014,Chelsea,85.0,1,0,1,0,0,Champions League
+2014,Arsenal,79.0,1,1,0,0,0,Champions League
+2014,Everton,32.0,0,0,0,0,0,Europa League
+2014,Tottenham,25.0,0,0,0,0,0,Europa League
+2014,Manchester Utd,28.0,0,0,0,0,0,
+2014,Southampton,41.0,0,0,0,0,0,
+2014,Stoke City,9.0,0,0,0,0,0,
+2014,Newcastle Utd,22.0,0,0,0,0,0,
+2014,Crystal Palace,1.0,0,0,0,0,0,
+2014,Swansea City,22.0,0,0,0,0,0,
+2014,West Ham,15.0,0,0,0,0,0,
+2014,Sunderland,12.0,0,0,0,0,0,
+2014,Aston Villa,5.0,0,0,0,0,0,
+2014,Hull City,21.0,0,0,0,0,0,
+2014,West Brom,10.0,0,0,0,0,0,
+2014,Norwich City,14.0,0,0,0,0,1,
+2014,Fulham,9.0,0,0,0,0,1,
+2014,Cardiff City,7.0,0,0,0,0,1,
+2015,Chelsea,70.0,1,0,0,1,0,Champions League
+2015,Manchester City,154.0,1,0,1,0,0,Champions League
+2015,Arsenal,14.0,1,0,0,0,0,Champions League
+2015,Manchester Utd,120.0,1,1,0,0,0,Champions League
+2015,Tottenham,45.0,0,0,0,0,0,Europa League
+2015,Liverpool,80.0,0,0,0,0,0,
+2015,Southampton,35.0,0,0,0,0,0,Europa League
+2015,Swansea City,20.0,0,0,0,0,0,
+2015,Stoke City,25.0,0,0,0,0,0,
+2015,Crystal Palace,30.0,0,0,0,0,0,
+2015,Everton,30.0,0,0,0,0,0,
+2015,West Ham,18.0,0,0,0,0,0,
+2015,West Brom,12.0,0,0,0,0,0,
+2015,Leicester City,30.0,0,0,0,0,0,
+2015,Newcastle Utd,25.0,0,0,0,0,0,
+2015,Sunderland,25.0,0,0,0,0,0,
+2015,Aston Villa,55.0,0,0,0,0,0,
+2015,Hull City,15.0,0,0,0,0,1,
+2015,Burnley,10.0,0,0,0,0,1,
+2015,QPR,20.0,0,0,0,0,1,
+2016,Leicester City,72.0,1,0,0,1,0,Champions League
+2016,Arsenal,87.0,1,1,0,0,0,Champions League
+2016,Tottenham,65.0,1,0,0,0,0,Champions League
+2016,Manchester City,174.0,1,0,1,0,0,Champions League
+2016,Manchester Utd,45.0,0,0,0,0,0,Europa League
+2016,Southampton,40.0,0,0,0,0,0,Europa League
+2016,West Ham,25.0,0,0,0,0,0,
+2016,Liverpool,64.0,0,0,0,0,0,
+2016,Stoke City,18.0,0,0,0,0,0,
+2016,Chelsea,120.0,0,0,0,0,0,
+2016,Everton,70.0,0,0,0,0,0,
+2016,Swansea City,35.0,0,0,0,0,0,
+2016,Watford,35.0,0,0,0,0,0,
+2016,West Brom,20.0,0,0,0,0,0,
+2016,Crystal Palace,55.0,0,0,0,0,0,
+2016,Bournemouth,35.0,0,0,0,0,0,
+2016,Sunderland,27.0,0,0,0,0,0,
+2016,Newcastle Utd,30.0,0,0,0,0,1,
+2016,Norwich City,22.0,0,0,0,0,1,
+2016,Aston Villa,25.0,0,0,0,0,1,
+2017,Chelsea,185.0,1,1,0,1,0,Champions League
+2017,Tottenham,90.0,1,0,0,0,0,Champions League
+2017,Manchester City,220.0,1,0,1,0,0,Champions League
+2017,Liverpool,150.0,1,0,0,0,0,Champions League
+2017,Arsenal,100.0,0,0,0,0,0,Europa League
+2017,Manchester Utd,145.0,0,0,0,0,0,Europa League
+2017,Everton,145.0,0,0,0,0,0,
+2017,Southampton,50.0,0,0,0,0,0,
+2017,Bournemouth,35.0,0,0,0,0,0,
+2017,West Brom,25.0,0,0,0,0,0,
+2017,West Ham,45.0,0,0,0,0,0,
+2017,Leicester City,65.0,0,0,0,0,0,
+2017,Stoke City,30.0,0,0,0,0,0,
+2017,Crystal Palace,35.0,0,0,0,0,0,
+2017,Swansea City,45.0,0,0,0,0,0,
+2017,Burnley,25.0,0,0,0,0,0,
+2017,Watford,45.0,0,0,0,0,0,
+2017,Hull City,15.0,0,0,0,0,1,
+2017,Middlesbrough,20.0,0,0,0,0,1,
+2017,Sunderland,10.0,0,0,0,0,1,
+2018,Manchester City,68.0,1,1,1,1,0,Champions League
+2018,Manchester Utd,75.0,1,0,0,0,0,Champions League
+2018,Tottenham,0.0,1,0,0,0,0,Champions League
+2018,Liverpool,163.0,1,0,0,0,0,Champions League
+2018,Chelsea,129.0,0,0,0,0,0,Europa League
+2018,Arsenal,72.0,0,0,0,0,0,Europa League
+2018,Burnley,27.0,0,0,0,0,0,
+2018,Everton,88.0,0,0,0,0,0,
+2018,Leicester City,105.0,0,0,0,0,0,
+2018,Newcastle Utd,25.0,0,0,0,0,0,
+2018,Crystal Palace,10.0,0,0,0,0,0,
+2018,Bournemouth,30.0,0,0,0,0,0,
+2018,West Ham,45.0,0,0,0,0,0,
+2018,Watford,30.0,0,0,0,0,0,
+2018,Brighton,65.0,0,0,0,0,0,
+2018,Huddersfield,20.0,0,0,0,0,0,
+2018,Southampton,55.0,0,0,0,0,0,
+2018,Swansea City,15.0,0,0,0,0,1,
+2018,Stoke City,25.0,0,0,0,0,1,
+2018,West Brom,20.0,0,0,0,0,1,
+2019,Manchester City,139.0,1,0,1,1,0,Champions League
+2019,Liverpool,10.0,1,0,0,0,0,Champions League
+2019,Chelsea,40.0,1,0,0,0,0,Champions League
+2019,Tottenham,80.0,1,0,0,0,0,Champions League
+2019,Arsenal,138.0,0,1,0,0,0,Europa League
+2019,Manchester Utd,65.0,0,0,0,0,0,Europa League
+2019,Wolves,75.0,0,0,0,0,0,
+2019,Everton,109.0,0,0,0,0,0,
+2019,Leicester City,90.0,0,0,0,0,0,
+2019,West Ham,45.0,0,0,0,0,0,
+2019,Watford,30.0,0,0,0,0,0,
+2019,Crystal Palace,8.0,0,0,0,0,0,
+2019,Newcastle Utd,25.0,0,0,0,0,0,
+2019,Bournemouth,30.0,0,0,0,0,0,
+2019,Burnley,15.0,0,0,0,0,0,
+2019,Southampton,35.0,0,0,0,0,0,
+2019,Brighton,65.0,0,0,0,0,0,
+2019,Cardiff City,20.0,0,0,0,0,1,
+2019,Fulham,25.0,0,0,0,0,1,
+2019,Huddersfield,15.0,0,0,0,0,1,
+2020,Liverpool,73.0,1,0,0,1,0,Champions League
+2020,Manchester City,122.0,1,0,1,0,0,Champions League
+2020,Manchester Utd,95.0,1,0,0,0,0,Champions League
+2020,Chelsea,220.0,1,0,0,0,0,Champions League
+2020,Leicester City,52.5,0,1,0,0,0,Europa League
+2020,Tottenham,65.0,0,0,0,0,0,Europa League
+2020,Wolves,45.0,0,0,0,0,0,
+2020,Arsenal,68.0,0,0,0,0,0,Europa League
+2020,Sheffield Utd,25.0,0,0,0,0,0,
+2020,Burnley,4.0,0,0,0,0,0,
+2020,Southampton,11.0,0,0,0,0,0,
+2020,Everton,61.0,0,0,0,0,0,
+2020,Newcastle Utd,30.0,0,0,0,0,0,
+2020,Crystal Palace,26.0,0,0,0,0,0,
+2020,Brighton,10.0,0,0,0,0,0,
+2020,West Ham,80.0,0,0,0,0,0,Conference League
+2020,Aston Villa,85.0,0,0,0,0,0,
+2020,Bournemouth,35.0,0,0,0,0,1,
+2020,Watford,25.0,0,0,0,0,1,
+2020,Norwich City,20.0,0,0,0,0,1,
+2021,Manchester City,110.0,1,0,0,1,0,Champions League
+2021,Manchester Utd,120.0,1,0,0,0,0,Champions League
+2021,Liverpool,45.0,1,1,1,0,0,Champions League
+2021,Chelsea,103.0,1,0,0,0,0,Champions League
+2021,Leicester City,55.0,0,0,0,0,0,Europa League
+2021,West Ham,80.0,0,0,0,0,0,Conference League
+2021,Tottenham,75.0,0,0,0,0,0,Conference League
+2021,Arsenal,150.0,0,0,0,0,0,Europa League
+2021,Leeds United,55.0,0,0,0,0,0,
+2021,Everton,55.0,0,0,0,0,0,
+2021,Aston Villa,95.0,0,0,0,0,0,
+2021,Newcastle Utd,25.0,0,0,0,0,0,
+2021,Wolves,45.0,0,0,0,0,0,
+2021,Crystal Palace,70.0,0,0,0,0,0,
+2021,Southampton,35.0,0,0,0,0,0,
+2021,Brighton,50.0,0,0,0,0,0,
+2021,Burnley,27.0,0,0,0,0,0,
+2021,Fulham,30.0,0,0,0,0,1,
+2021,West Brom,25.0,0,0,0,0,1,
+2021,Sheffield Utd,20.0,0,0,0,0,1,
+2022,Manchester City,119.0,1,1,0,1,0,Champions League
+2022,Liverpool,101.0,1,0,0,0,0,Europa League
+2022,Chelsea,270.0,1,0,0,0,0,
+2022,Tottenham,170.0,1,0,0,0,0,
+2022,Arsenal,120.0,0,0,0,0,0,Champions League
+2022,Manchester Utd,220.0,0,0,1,0,0,Champions League
+2022,West Ham,80.0,0,0,0,0,0,
+2022,Newcastle Utd,120.0,0,0,0,0,0,Champions League
+2022,Leicester City,75.0,0,0,0,0,0,
+2022,Brighton,60.0,0,0,0,0,0,Europa League
+2022,Wolves,45.0,0,0,0,0,0,
+2022,Crystal Palace,30.0,0,0,0,0,0,
+2022,Brentford,35.0,0,0,0,0,0,
+2022,Aston Villa,85.0,0,0,0,0,0,Conference League
+2022,Southampton,25.0,0,0,0,0,0,
+2022,Everton,45.0,0,0,0,0,0,
+2022,Leeds United,55.0,0,0,0,0,0,
+2022,Burnley,20.0,0,0,0,0,1,
+2022,Watford,25.0,0,0,0,0,1,
+2022,Norwich City,15.0,0,0,0,0,1,
